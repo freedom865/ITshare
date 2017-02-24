@@ -1,10 +1,7 @@
 #include <stdio.h>
 
-int main(void){
-
-	printf("Hello World\n");
-	printf("itosin\n");
-
-	return(0);
-
+int main(void)
+{
+	pritnf("git clone https://github.com/freedom865/ITshare.git");
+	return 0;
 }
